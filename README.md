@@ -1,3 +1,7 @@
+**Steps to run the project
+1. Clone the project
+2. Go to EShoppers folder and run the command -> npm install
+3. In the same Eshoppers folder run the command to start the project -> npm start 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
